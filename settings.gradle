@@ -1,0 +1,2 @@
+include ':app', ':linkedin-URL-Detector'
+project(':linkedin-URL-Detector').projectDir = new File('../URL-Detector/url-detector')
